@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PujithaDevagudi
 - 👀 I’m interested in learning programing languages and NGS.
 - 🌱 I’m currently learning multiomics.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NGS data analysis.
 - 📫 How to reach me through my mail.
 
 <!---
